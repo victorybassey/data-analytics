@@ -1,2 +1,2 @@
 # data-analytics
-Data Analytics Study &amp; Projects
+My Data Analytics Projects & Codes
